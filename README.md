@@ -1,0 +1,2 @@
+# market-basket-analysis-and-stock-price-prediction-system
+Market Basket Analysis: Developed a Market Basket Analysis project to identify customer purchasing patterns and relationships between products using transaction data.Stock Price Prediction System: Developed a Stock Price Prediction System using historical stock market data and machine learning techniques to analyze price trends and patterns.
